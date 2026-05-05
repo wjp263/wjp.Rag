@@ -42,3 +42,8 @@
 ---
 ## 📦 安装与运行
 在pycharm终端输入：streamlit run app_qa.py 
+### 1. 克隆仓库
+
+```bash
+git clone https://github.com/wjp263/wjp.Rag
+cd 智能客服系统

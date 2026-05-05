@@ -1,4 +1,3 @@
-# wjp.Rag
 # 🧠 智能客服问答系统（RAG + ReAct Agent扩展）
 
 基于 LangChain 的企业级智能客服系统，支持用户上传 TXT 文档构建私有知识库，并提供 标准 RAG 链*与 ReAct Agent（自主调用工具）两种问答模式。  
